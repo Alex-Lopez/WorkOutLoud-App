@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Notification - WorkOutLoud App WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>WorkOutLoud App WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>WorkOutLoud App.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>AC28474E1AEDA52B002C6070</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC28476F1AEDA600002C6070</key>
 		<dict>
 			<key>primary</key>
 			<true/>
